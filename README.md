@@ -10,6 +10,10 @@ https://qiita.com/nnahito/items/565f8755e70c51532459
 
 https://employment.en-japan.com/engineerhub/entry/2017/01/31/110000
 
+GitHubにssh接続できるようにする（SSH設定）
+
+https://qiita.com/0ta2/items/25c27d447378b13a1ac3
+
 ## 用語の説明
 
 ### インデックス
